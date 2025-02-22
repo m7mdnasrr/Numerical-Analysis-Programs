@@ -1,8 +1,6 @@
 % Mohamed Nasr El-Din Mohamed Magdy Mohamed
-% Section [6]
 % Numerical Analysis
-% Assignment 5 - Solve a linear system Program
-% Under Supervision: Dr. Khaled Abd-Elgaber
+% Solve a linear system Program
 
 function Solve_a_linear_system_Program()
     disp('Solve a linear system AX = B');
