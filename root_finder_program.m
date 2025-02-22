@@ -1,8 +1,6 @@
 % God Bless Mohamed Nasr El-Din Mohamed Magdy Mohamed
-% Section [6]
 % Numerical Analysis
-% Assignment 2 - Root Finder Program
-% Under Supervision: Dr. Khaled Abd-Elgaber
+% Root Finder Program
 
 function root_finder_program()
     disp('Root Finder Program:');
